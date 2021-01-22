@@ -1,6 +1,7 @@
 ### Hi, I'm Genís 👋
 My name is Genís Frigola and I am a Junior UX UI designer and Frontend developer
 - 📫 How to reach me: You can DM me in my <a href="https://www.linkedin.com/in/gfrigola/"> linkedin account! </a>
+- ⚡ Fun fact: If you want to have a fun surprise, check this <a href="https://matias.ma/nsfw/"> website.</a>
 <!--
 **17nis/17nis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
