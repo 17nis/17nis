@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Genís Frigola and I am a Junior UX UI designer and Frontend developer
 <!--
 **17nis/17nis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
