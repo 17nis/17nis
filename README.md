@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Genís!</h1>
 <h3 align="center">I am a passionate UX UI designer and frontend developer</h3>
 
-![name-of-you-image](https://github.com/17nis/17nis/blob/main/with%20snow.png)
+![name-of-you-image](https://github.com/17nis/17nis/blob/main/northernLight.png?raw=true)
 
 - 📫 How to reach me: You can DM me in my <a href="https://www.linkedin.com/in/gfrigola/"> linkedin account! </a>
 - ⚡ Fun fact: If you want to have a fun surprise, check this <a href="https://matias.ma/nsfw/"> website.</a>
